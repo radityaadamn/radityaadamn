@@ -34,8 +34,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 
-![Raditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=radityaadamn&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=radityaadamn&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radityaadamn&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radityaadamn&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=radityaadamn&theme=tokyonight)
