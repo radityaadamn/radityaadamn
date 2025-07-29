@@ -36,8 +36,6 @@
 
 ### 📊 GitHub Stats:
 
-### 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=radityaadamn&show_icons=true&theme=tokyonight&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radityaadamn&layout=compact&theme=tokyonight&hide_title=true)
