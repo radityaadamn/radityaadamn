@@ -36,8 +36,11 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=radityaadamn&show_icons=true&theme=tokyonight)
+### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radityaadamn&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=radityaadamn&show_icons=true&theme=tokyonight&hide_title=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=radityaadamn&theme=dark&hide_border=true)](https://github.com/radityaadamn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radityaadamn&layout=compact&theme=tokyonight&hide_title=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=radityaadamn&theme=tokyonight&hide_border=true)](https://github.com/radityaadamn)
+
